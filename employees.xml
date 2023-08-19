@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+<Employee category ="Details">
+    <Employee1>
+        <Details Type="Personal Information">
+            <First_Name>"Kumar"</First_Name>
+            <Last_Name>"k"</Last_Name>
+            <Dob>1987-03-18</Dob>
+            <Gender>Male</Gender>
+        </Details>
+        <Details type="employment Information">
+            <Position>Director Control</Position>
+            <Salary>100000</Salary>
+        </Details>
+        <Details type="ContactInformation">
+            <Email>kumar@gmail.com</Email>
+            <Phone_Number>9879089034</Phone_Number>
+        </Details>
+    </Employee1>
+    <Employee2>
+        <Details type="Personal Information">
+            <First_Name>"Anuradha"</First_Name>
+            <Last_Name>"k"</Last_Name>
+            <Dob>1993-04-21</Dob>
+            <Gender>Female</Gender>
+        </Details>
+        <Details type="employment Information">
+            <Position>Associate Director Control</Position>
+            <Salary>80000</Salary>
+        </Details>
+        <Details type="Contact Information">
+            <Email>anu123@gmail.com</Email>
+            <Phone_Number>7890654321</Phone_Number>
+        </Details>      
+    </Employee2 >
+    <Employee3>
+        <Details type="Personal Information">
+            <First_Name>"Priyanga"</First_Name>
+            <Last_Name>"k"</Last_Name>
+            <Dob>2000-11-26</Dob>
+            <Gender>Female</Gender>
+        </Details>
+        <Details type="employment Information">
+            <Position>Manager</Position>
+            <Salary>50000</Salary>
+        </Details>
+        <Details type="Contact Information">
+            <Email>priyu2611@gmail.com</Email>
+            <Phone_Number>7468903472</Phone_Number>
+        </Details> 
+    </Employee3>    
+
+    <Employee4>
+        <Details type="Personal Information">
+            <First_Name>"Lemi"</First_Name >
+            <Last_Name>"pattu"</Last_Name >
+            <Dob>2001-05-08</Dob>
+            <Gender>Male</Gender>
+        </Details>
+        <Details type="employment Information">
+            <Position>Analyst</Position>
+            <Salary>30000</Salary>
+        </Details>
+        <Details type="Contact Information">
+            <Email>kuttypattu@gmail.com</Email>
+            <Phone_Number>9874653210</Phone_Number>
+        </Details> 
+    </Employee4> 
+    <Employee5>
+        <Details type="Personal Information">
+            <First_Name>"Lumi"</First_Name >
+            <Last_Name>"pattu"</Last_Name >
+            <Dob>2001-05-08</Dob>
+            <Gender>Male</Gender>
+        </Details>
+        <Details type="employment Information">
+            <Position>Analyst</Position>
+            <Salary>30000</Salary>
+        </Details>
+        <Details type="Contact Information">
+            <Email>lumikutty@gmail.com</Email>
+            <Phone_Number>9900887766</Phone_Number>
+        </Details> 
+    </Employee5>                                               
+
+</Employee>
